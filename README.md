@@ -56,8 +56,7 @@ _I'm a Developer , Desinger and Scrimba Student!!_
 
 <details>
   <summary>GitHub Stats</summary>
-<img align="left" width="100%" alt="Snailedlt's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Snailedlt&&theme=react-dark&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22eded&icon_color=22eded&text_color=cacaca&color=22eded&border_radius=0&count_private=true" />
-<img align="left" width="100%" alt="Snailedlt's GitHub Contributions Graph" src="https://activity-graph.herokuapp.com/graph?username=Snailedlt&theme=react-dark&bg_color=0d1117&color=22eded&line=22eded&point=00000000&area=true&area_color=22EDED&hide_border=true&custom_title=Contributions">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NellyisDevv&show_icons=true&theme=radical)
 </details>
 
 [linkedin]: https://www.linkedin.com/in/nelson-rosario-nellyisdev/
