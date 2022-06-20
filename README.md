@@ -56,7 +56,7 @@ _I'm a Developer , Desinger and Scrimba Student!!_
 
 <details>
   <summary>GitHub Stats</summary>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NellyisDevv&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 </details>
 
 [linkedin]: https://www.linkedin.com/in/nelson-rosario-nellyisdev/
